@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrederickTheGr8
+- 👋 Hi, I’m @FrederickTheGr8. I live in Brisbane, Australia.
 - 🌱 I’m currently learning Ruby on Rails, full stack MVC webdev and furthering my overall security knowledge/implementations.
 - 📫 Reach me via discord fred#4444 :D
 
