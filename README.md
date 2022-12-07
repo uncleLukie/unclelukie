@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @FrederickTheGr8. I live in Brisbane, Australia.
-- 🌱 I’m currently learning Ruby on Rails, PostgreSQL, NoSQL, full stack web development and furthering my overall security knowledge/implementations.
-- 📫 Reach me via discord fred#4444 or twitter https://twitter.com/FrederikDaGr8 :D
+- 👋 Hi, I’m Luke. I live in Brisbane, Australia.
+- 🌱 I love to learn about the following topics: full stack web development, data science, information security, cloud based infrastructure & game development.
+- 😃 I am familiar with: Git, Docker, Python, Java, JavaScript, CSS, HTML, PHP, MySQL, NoSQL, Cassandra, PostgreSQL, Hadoop, Linux, Godot, Unity, Unreal Engine 4.
+- 📚 My favourite stack is: Django, Postgres, Vue.js, Docker and GitHub <3
+- 📫 Reach me via discord fred#4444
 
 <!---
 FrederickTheGr8/FrederickTheGr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
