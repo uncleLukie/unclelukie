@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Luke from Brisbane, Australia, with a Bachelor of IT from UQ. I code for fun and work on random projects in my off time
-- 🔨 Product Manager for UE5 VR Multiplayer Game Terror Tower at https://smashit.games
+- 🔨 Product Manager for UE5 VR Horror Multiplayer Game Terror Tower at https://smashit.games
 - 🌱 I love learning about artificial intelligence, project management, full-stack web development, data science, blockchain technology, information security, cloud-based infrastructure, and game development.
 - 😃 I am familiar to varying degrees with: Git, SVN, Docker, Python, Java, C++, JavaScript, CSS, HTML, Solidity, PHP, MySQL, NoSQL, Cassandra, PostgreSQL, Hadoop, Linux, Cloud deployment, Godot, Unity, Unreal Engine 4/5, Agile style project management.
