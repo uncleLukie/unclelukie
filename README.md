@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luke. I live in Brisbane, Australia. About to graduate with a Bachelor of IT at UQ, yayyyy. I'm just a dude who wants to get better at making clean, understandable code, and succesfully managing projects with multi-disciplinary teams.
 - 🔨 Currently: Developing UE5 C++ project TerrorTower (working title)
 - 🌱 I love to learn about the following topics: full stack web development, data science, blockchain technology, information security, cloud based infrastructure, & game development.
-- 😃 I am familiar with: Git, Docker, Python, Java, JavaScript, CSS, HTML, Solidity, PHP, MySQL, NoSQL, Cassandra, PostgreSQL, Hadoop, Linux, Godot, Unity, Unreal Engine 4, Agile style project management.
+- 😃 I am familiar with: Git, Docker, Python, Java, JavaScript, CSS, HTML, Solidity, PHP, MySQL, NoSQL, Cassandra, PostgreSQL, Hadoop, Linux, Godot, Unity, Unreal Engine 4/5, Agile style project management.
 
 
 <!---
