@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Luke. I live in Brisbane, Australia. About to graduate with a Bachelor of IT at UQ, yayyyy. I'm just a dude who wants to get better at making clean, understandable code, and succesfully managing projects with multi-disciplinary teams.
-- 🔨 Currently: Developing UE5 C++ project TerrorTower (working title)
-- 🌱 I love to learn about the following topics: full stack web development, data science, blockchain technology, information security, cloud based infrastructure, & game development.
-- 😃 I am familiar with: Git, Docker, Python, Java, JavaScript, CSS, HTML, Solidity, PHP, MySQL, NoSQL, Cassandra, PostgreSQL, Hadoop, Linux, Godot, Unity, Unreal Engine 4/5, Agile style project management.
-
-
-<!---
-FrederickTheGr8/FrederickTheGr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Luke from Brisbane, Australia, with a Bachelor of IT from UQ. I code for fun and work on random projects in my off time
+- 🔨 Currently a Product Manager for UE5 VR Multiplayer Game Terror Tower at https://smashit.games
+- 🌱 I love learning about artificial intelligence, project management, full-stack web development, data science, blockchain technology, information security, cloud-based infrastructure, and game development.
+- 😃 I am familiar to varying degrees with: Git, SVN, Docker, Python, Java, C++, JavaScript, CSS, HTML, Solidity, PHP, MySQL, NoSQL, Cassandra, PostgreSQL, Hadoop, Linux, Godot, Unity, Unreal Engine 4/5, Agile style project management.
