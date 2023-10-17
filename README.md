@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Luke from Brisbane, Australia, with a Bachelor of IT from UQ. I like to code
-- Full stack gamedev, appdev & webdev
+- 👋 Hi, I'm Luke from Brisbane, Australia, with a Bachelor of IT from UQ
+- ⌨️ Full stack software engineer
 - 🔨 Founder of smashit.games -- Looking for VR Unity Specialists -- https://smashit.games/jobs
 - 📇 Contact me on discord, always keen for a chat! -- [unclelukie](https://discord.com/users/99079218897371136)
