@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Luke from Brisbane, Australia, with a Bachelor of IT from UQ
 - ⌨️ Code wrangler
-- 📇 Contact me on these platforms, I'm always keen for a chat! -- Discrod: [unclelukie](https://discord.com/users/99079218897371136) or [LinkedIn](https://www.linkedin.com/in/unclelukie/)
+- 📇 Contact me on these platforms, I'm always keen for a chat! -- Discord: [unclelukie](https://discord.com/users/99079218897371136) or [LinkedIn](https://www.linkedin.com/in/unclelukie/)
