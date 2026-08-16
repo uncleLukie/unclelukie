@@ -1,3 +1,9 @@
-- 👋 Hi, I'm Luke from Brisbane, Australia, with a Bachelor of IT from UQ
-- ⌨️ Code wrangler
-- 📇 Contact me on these platforms, I'm always keen for a chat! -- Discord: [unclelukie](https://discord.com/users/99079218897371136) or [LinkedIn](https://www.linkedin.com/in/unclelukie/)
+# Hi, I'm Luke Hewitt, aka uncleLukie
+
+Product thinker with developer roots, based in Brisbane.
+
+- **Product & Strategy:** Turning ambiguous user problems into clear scopes and deliverable milestones.
+- **Code & Delivery:** Hands-on across the stack, automated testing, and CI/CD pipelines.
+- **Collaboration:** Translating seamlessly between engineering teams, stakeholders, and end-users.
+
+[Let's chat on LinkedIn](https://www.linkedin.com/in/unclelukie/)
