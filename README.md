@@ -1,4 +1,4 @@
-# Hi, I'm Luke Hewitt, aka uncleLukie
+# Hi, I'm Luke
 
 Product thinker with developer roots, based in Brisbane.
 
